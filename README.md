@@ -3,6 +3,7 @@
 
 ## GUI Startup
  `./wav_player` in shell or double click `wav_player`
+ 
  drag .wav file into window to play
 
 ## Shell Startup
